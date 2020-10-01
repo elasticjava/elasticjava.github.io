@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Holger Bartnick
+N:Bartnick;Holger;;;
+item1.ADR:;;;Berlin;;;DE;Berlin\nDE
+item1.X-ABLabel:
+item2.URL:https\://elasticjava.github.io/
+item2.X-ABLabel:Github-Pages
+item3.URL:https\://www.linkedin.com/in/holger-bartnick-203486101/
+item3.X-ABLabel:LinkedIn
+item4.URL:https\://twitter.com/elasticjava
+item4.X-ABLabel:Twitter
+item5.URL:https\://www.facebook.com/holger.bartnick/
+item5.X-ABLabel:Facebook
+item6.URL:https\://www.xing.com/profile/Holger_Bartnick/portfolio
+item6.X-ABLabel:Xing
+PHOTO:https://lh6.googleusercontent.com/-RhB62CnqYfM/X3YQqI0votI/AAAAAAAAAA
+ A/PId1pvqoYkozqn6mU2zK37VDHADlUHRPgCOQCEAE/photo.jpg
+CATEGORIES:myContacts
+END:VCARD
